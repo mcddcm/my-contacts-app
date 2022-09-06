@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-contacts-app/static/css/main.13f46cf9.css",
+    "main.js": "/my-contacts-app/static/js/main.10623135.js",
+    "static/media/ProductSans-Regular.woff": "/my-contacts-app/static/media/ProductSans-Regular.0a489488ab3cb2eb11f9.woff",
+    "static/media/ProductSans-Bold.woff": "/my-contacts-app/static/media/ProductSans-Bold.0e179021d036d6dacfba.woff",
+    "static/media/Lemontea-rg9D7.woff": "/my-contacts-app/static/media/Lemontea-rg9D7.3b059a1aaa79ce1e1c63.woff",
+    "index.html": "/my-contacts-app/index.html",
+    "main.13f46cf9.css.map": "/my-contacts-app/static/css/main.13f46cf9.css.map",
+    "main.10623135.js.map": "/my-contacts-app/static/js/main.10623135.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13f46cf9.css",
+    "static/js/main.10623135.js"
+  ]
+}
