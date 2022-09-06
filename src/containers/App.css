@@ -1,0 +1,62 @@
+@font-face {
+  font-family: 'Lemontea Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Lemontea Regular'), url('Lemontea-rg9D7.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Product Sans Bold';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Product Sans Bold'), url('ProductSans-Bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Product Sans Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Product Sans Regular'), url('ProductSans-Regular.woff') format('woff');
+}
+
+h1 {
+  font-family: 'Lemontea Regular';
+  font-weight: 400;
+  color: #ffffff;
+  /* font-size: 10vmin; */
+}
+
+h2 {
+  font-family: 'Product Sans Bold';
+  color: #141E30;
+}
+
+p {
+  font-family: 'Product Sans Regular';
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #357EDD;
+}
+
+input {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: 'Product Sans Regular';
+  color: #141E30;
+}
+
+input:focus {
+  outline: none;
+  background: #FFFCEB;
+}
+
+::placeholder {
+  color: #444f55;
+}
